@@ -8,3 +8,6 @@ body{
     padding:3%;
     margin-top:1%;
 }
+.required{
+    color:red;
+}
