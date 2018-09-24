@@ -1,0 +1,10 @@
+body{
+    background-color:whitesmoke;
+}
+
+.container{
+    background-color:aliceblue;
+    border:black 1px solid;
+    padding:3%;
+    margin-top:1%;
+}
